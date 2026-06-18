@@ -19,4 +19,4 @@ ln -sf /usr/local/bin/T.Sin /usr/local/bin/T.sin
 ln -sf /usr/local/bin/T.Sin /usr/local/bin/tsin
 
 echo -e "${GREEN}[*] Running T.Sin...${NC}"
-/usr/local/bin/T.Sin </dev/tty
+PYTHONWARNINGS="ignore" /usr/local/bin/T.Sin </dev/tty
