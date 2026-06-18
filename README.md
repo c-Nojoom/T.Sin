@@ -7,7 +7,7 @@ sudo bash -c "$(curl -sL "https://raw.githubusercontent.com/c-Nojoom/T.Sin/main/
 
 با دستور زیر باز میشه برنامه:
 ```bash
-sudo ./T.Sin
+T.Sin
 ```
 
 
