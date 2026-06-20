@@ -24,7 +24,7 @@
 ```bash
 sudo bash -c "$(curl -sL "[https://raw.githubusercontent.com/c-Nojoom/T.Sin/main/install.sh?v=$](https://raw.githubusercontent.com/c-Nojoom/T.Sin/main/install.sh?v=$)(date +%s)" | tr -d '\r')"
 ```
-۲. اجرای برنامه
+### 💻 ۲. اجرای برنامه
 پس از اتمام فرآیند نصب، برنامه خودکار باز خواهد شد، درصورت خارج شدن و برای دوباره وارد شدن کد زیر را در ترمینال بزنید:
 ```bash
 T.Sin
