@@ -24,5 +24,20 @@
 ```bash
 sudo bash -c "$(curl -sL "[https://raw.githubusercontent.com/c-Nojoom/T.Sin/main/install.sh?v=$](https://raw.githubusercontent.com/c-Nojoom/T.Sin/main/install.sh?v=$)(date +%s)" | tr -d '\r')"
 ```
-
+۲. اجرای برنامه
+پس از اتمام فرآیند نصب، برنامه خودکار باز خواهد شد، درصورت خارج شدن و برای دوباره وارد شدن کد زیر را در ترمینال بزنید:
+```bash
 T.Sin
+```
+🔗 راه‌های ارتباطی و پشتیبانی (Community & Support)
+📢 کانال تلگرام (آخرین اخبار و به‌روزرسانی‌ها)
+https://t.me/T_Sinn
+
+🤖 ربات تلگرام (دریافت اکانت تست)
+https://t.me/T_Sin_bot
+
+👤 خرید لایسنس و پشتیبانی مستقیم
+https://t.me/Sin_cz
+
+📺 کانال یوتیوب (آموزش‌ها و ویدیوهای راهنما)
+https://www.youtube.com/@Sin_cz
