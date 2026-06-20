@@ -30,6 +30,7 @@ sudo bash -c "$(curl -sL "[https://raw.githubusercontent.com/c-Nojoom/T.Sin/main
 T.Sin
 ```
 🔗 راه‌های ارتباطی و پشتیبانی (Community & Support)
+
 📢 کانال تلگرام (آخرین اخبار و به‌روزرسانی‌ها)
 https://t.me/T_Sinn
 
