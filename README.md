@@ -29,6 +29,7 @@ sudo bash -c "$(curl -sL "[https://raw.githubusercontent.com/c-Nojoom/T.Sin/main
 ```bash
 T.Sin
 ```
+---
 🔗 راه‌های ارتباطی و پشتیبانی (Community & Support)
 
 📢 کانال تلگرام (آخرین اخبار و به‌روزرسانی‌ها)
@@ -42,6 +43,7 @@ https://t.me/T_Sin_bot
 👤 خرید لایسنس و پشتیبانی مستقیم
 
 https://t.me/Sin_cz
+---
 
 📺 کانال یوتیوب (آموزش‌ها و ویدیوهای راهنما)
 
