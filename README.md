@@ -1,4 +1,4 @@
-# 🚀 پروژه T.Sin
+# 🚀 برنامه T.Sin
 
 یک ابزار قدرتمند، سریع و مدرن برای مدیریت و راه‌اندازی سرویس‌ها روی سیستم‌عامل اوبونتو.
 
@@ -22,7 +22,7 @@
 برای نصب خودکار، کافیست دستور زیر را به صورت کامل کپی کرده و در ترمینال اوبونتو خود اجرا کنید:
 
 ```bash
-sudo bash -c "$(/usr/bin/curl -sL "https://raw.githubusercontent.com/c-Nojoom/T.Sin/main/install.sh?v=$(date +%s)" | tr -d '\r')"
+sudo bash -c "$(curl -sL "https://raw.githubusercontent.com/c-Nojoom/T.Sin/main/install.sh?v=$(date +%s)" | tr -d '\r')"
 ```
 ### 💻 ۲. اجرای برنامه
 پس از اتمام فرآیند نصب، برنامه خودکار باز خواهد شد، درصورت خارج شدن و برای دوباره وارد شدن کد زیر را در ترمینال بزنید:
